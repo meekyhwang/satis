@@ -1,0 +1,8 @@
+{
+    "name": "NorthPoint Digital WordPress Internal Repositories",
+    "homepage": "http://npd-wp/",
+    "repositories": [
+        { "type": "vcs", "url": "git@bitbucket.org:northps/wp-plugin-link-by-postid.git" }
+    ],
+    "require-all": true
+}

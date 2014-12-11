@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "northps/wp-plugin-link-by-postid": {
+            "dev-master": {
+                "name": "northps/wp-plugin-link-by-postid",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:northps/wp-plugin-link-by-postid.git",
+                    "reference": "fe6baa420d2b7fff573396b3f1ee29de982bf944"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.3.2"
+                },
+                "time": "2014-10-22 20:17:21",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "NorthPoint Digital",
+                        "homepage": "http://www.northpointdigital.com/"
+                    }
+                ],
+                "description": "Link by PostID",
+                "homepage": "http://www.northpointdigital.com/"
+            }
+        }
+    }
+}
